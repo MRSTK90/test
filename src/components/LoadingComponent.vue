@@ -1,12 +1,10 @@
 <template>
-  <div>
-  <p>This is Component2</p>
-  </div>
+<div>Loading...</div>
 </template>
 
 <script>
 export default {
-  name: 'testComponent2'
+  name: "LoadingComponent"
 }
 </script>
 
